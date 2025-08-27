@@ -1,5 +1,6 @@
-# repo_test_bruna_da_silva
-Repositório de teste de nivelamemto desenvolvedor REACT
+# repositório de teste: Candidato(a)
+
+Repositório de teste e nivelamemto: desenvolvedor REACT
 
 #Requisitos Básico
 
